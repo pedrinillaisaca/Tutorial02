@@ -13,8 +13,6 @@
 */
 
 
-/* HTML and Body Styles */
-
 body {
 	margin: 0 auto;
 	width: 100%;
@@ -64,39 +62,3 @@ body > footer {
 	width: 100%;
 	clear: left;
 }
-
- /* Heading Styles */
-
-article#about_tss h1{
-	color: white;
-	background-color: rgb(222, 128, 60) ;
-}
-
-article#about_tss h2{
-	color: white;
-	background-color: rbg(235, 177, 131);
-}
-
-
-
-/* Aside and Blockquote Styles */
-
-aside blockquote { 
-	color: rgb(232, 165, 116); 
-}
-
-
-
-/* Navigation Styles */	
-
-
-
-
-
-/* List Styles */
-
-
-
-
-
-/* Footer Styles */
